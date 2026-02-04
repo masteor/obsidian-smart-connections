@@ -1,10 +1,10 @@
 {
-  "id": "smart-connections",
-  "name": "Smart Connections",
-  "author": "Brian Petro",
+  "id": "smart-connections-masteor",
+  "name": "Smart Connections Masteor",
+  "author": "masteor",
   "description": "Chat with your notes & see links to related content with Local or Remote models.",
   "minAppVersion": "1.1.0",
-  "authorUrl": "https://smartconnections.app",
+  "authorUrl": "",
   "isDesktopOnly": false,
   "version": "4.1.8"
 }
